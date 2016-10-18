@@ -1,6 +1,6 @@
 **Strings**
 
-1. Find the first non-repeated character in a String
+1. [Find the first non-repeated character in a String](https://github.com/BhavanaBobba/StringOperations/blob/master/scr/FirstNonRepeatedChar.scala)
 
 2. Reverse a String iteratively and recursively
 
